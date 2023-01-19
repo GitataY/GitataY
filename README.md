@@ -17,14 +17,7 @@
 
 <h1>
   Hey there, I'm Wamuyu Gitata
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-     <img src="https://media.giphy.com/media/tMdyKBra7ntdqSbOV8/giphy.gif" width="600" height="300"/>
-</div>
----
-
+ 
 ### :woman_technologist: About Me :
 - :telescope: I’m enrolled in ALX program and a fulltime CS student 
 
