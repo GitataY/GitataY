@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=GitataY&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  Hey there, I'm Wamuyu Gitata
+  Hey there, I'm Yvonne Gitata
  
 ### :woman_technologist: About Me :
 - :telescope: I’m enrolled in ALX program and a fulltime CS student 
