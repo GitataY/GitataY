@@ -6,14 +6,7 @@
 <h1>
   Hey there, I'm Yvonne Gitata
  
-### :woman_technologist: About Me :
-- :telescope: I’m enrolled in ALX program and a fulltime CS student 
-
-- :seedling: I enjoy making responsive designs and UX research.
-
-- :zap: In my free time, I solve problems on codewars and contribute to open source projects.
-
----
+### :woman_technologist:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
