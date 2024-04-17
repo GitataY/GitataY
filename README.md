@@ -5,8 +5,6 @@
 
 <h1>
   Hey there, I'm Yvonne Gitata
- 
-### :woman_technologist:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
