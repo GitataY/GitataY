@@ -6,7 +6,7 @@
  ## Hey there, I'm Yvonne
  - I build projects using TS/JS/Go
   
-### Check out my cool music taste 
+### Check out my music taste 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yvdklz6ff3ybmxe7szhwntiynq)](https://open.spotify.com/user/31yvdklz6ff3ybmxe7szhwntiynq)
 
 ---
