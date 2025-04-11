@@ -3,7 +3,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=GitataY&style=flat-square&color=blue" alt=""/>
 
- ## Hey there, I'm Yvonne Wamuyu
+ ## Hey there, I'm Yvonne Gitata
  ### About me 
  - Software Engineer with experience in full-stack development and a passion for building efficient, scalable solutions. Skilled in JavaScript/TypeScript, React, Next.js, Go, and GraphQL.
    
