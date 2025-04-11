@@ -3,13 +3,18 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=GitataY&style=flat-square&color=blue" alt=""/>
 
- ## Hey there, I'm Yvonne
- - I build projects using TS/JS/Go
+ ## Hey there, I'm Yvonne Wamuyu
+ ### About me 
+ - Software Engineer with experience in full-stack development and a passion for building efficient, scalable solutions. Skilled in JavaScript/TypeScript, React, Next.js, Go, and GraphQL.
+   
+### Current Focus
+- Currently working on optimizing systems performance and expanding my knowledge in distributed systems architecture.
+- Feel free to reach out for collaborations or discussions!
   
-### Check out my music taste 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yvdklz6ff3ybmxe7szhwntiynq)](https://open.spotify.com/user/31yvdklz6ff3ybmxe7szhwntiynq)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yvonne-gitata-3b7151237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yvonne Gitata" height="30" width="40" /></a>
 
----
 
 ### :fire: My Stats :
 
@@ -23,8 +28,9 @@
 
 
 
-
 <!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GitataY&theme=dark&background=000000)](https://git.io/streak-stats)
+
 **GitataY/GitataY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
